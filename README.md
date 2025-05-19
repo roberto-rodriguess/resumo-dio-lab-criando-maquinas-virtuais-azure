@@ -1,0 +1,1 @@
+# resumo-dio-lab-criando-maquinas-virtuais-azure
